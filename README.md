@@ -13,3 +13,7 @@
 4. COMMAND : git add 'file name'
    USE : stages changes for a commit
    EXAMPLE : git add README.md
+
+5. COMMAND : git push origin [branch name]
+   USE : uploads committed changes to remote repository
+   EXAMPLE : git push origin main
