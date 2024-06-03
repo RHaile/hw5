@@ -5,3 +5,7 @@
 2. COMMAND : git config --global user.email "email"
    USE : configures your email or username on git for commits
    EXAMPLE : git config --global user.email "haile.ruta@gmail.com"
+
+3. COMMAND : git log
+   USE : displays commited snapshots
+   EXAMPLE : git log
