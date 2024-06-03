@@ -9,3 +9,7 @@
 3. COMMAND : git log
    USE : displays commited snapshots
    EXAMPLE : git log
+
+4. COMMAND : git add 'file name'
+   USE : stages changes for a commit
+   EXAMPLE : git add README.md
